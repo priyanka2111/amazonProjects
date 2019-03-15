@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[<div style="display:block;margin-left:10px;"></div>]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20760" started-at="2019-01-31T07:32:50Z" finished-at="2019-01-31T07:33:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20760" started-at="2019-01-31T07:32:50Z" finished-at="2019-01-31T07:33:11Z">
+      <class name="com.myorg.tests.AmazonTest">
+        <test-method status="PASS" signature="setupSuit(org.testng.ITestContext)[pri:0, instance:com.myorg.tests.AmazonTest@b3d7190]" name="setupSuit" is-config="true" duration-ms="26" started-at="2019-01-31T13:02:50Z" finished-at="2019-01-31T13:02:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@6b4a4e18]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupSuit -->
+        <test-method status="PASS" signature="setupTest(org.testng.ITestContext)[pri:0, instance:com.myorg.tests.AmazonTest@b3d7190]" name="setupTest" is-config="true" duration-ms="2" started-at="2019-01-31T13:02:50Z" finished-at="2019-01-31T13:02:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@6b4a4e18]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTest -->
+        <test-method status="PASS" signature="setup(org.testng.ITestContext)[pri:0, instance:com.myorg.tests.AmazonTest@b3d7190]" name="setup" is-config="true" duration-ms="1" started-at="2019-01-31T13:02:50Z" finished-at="2019-01-31T13:02:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@6b4a4e18]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setupMethod(java.lang.reflect.Method, org.testng.ITestContext)[pri:0, instance:com.myorg.tests.AmazonTest@b3d7190]" name="setupMethod" is-config="true" duration-ms="0" started-at="2019-01-31T13:02:50Z" finished-at="2019-01-31T13:02:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.myorg.tests.AmazonTest.addToCartTest()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@6b4a4e18]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method status="PASS" signature="addToCartTest()[pri:0, instance:com.myorg.tests.AmazonTest@b3d7190]" name="addToCartTest" duration-ms="20524" started-at="2019-01-31T13:02:50Z" finished-at="2019-01-31T13:03:11Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<div style="display:block;margin-left:10px;"></div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addToCartTest -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestContext, org.testng.ITestResult)[pri:0, instance:com.myorg.tests.AmazonTest@b3d7190]" name="afterMethod" is-config="true" duration-ms="3" started-at="2019-01-31T13:03:11Z" finished-at="2019-01-31T13:03:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@6b4a4e18]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=addToCartTest status=SUCCESS method=AmazonTest.addToCartTest()[pri:0, instance:com.myorg.tests.AmazonTest@b3d7190] output=<div style="display:block;margin-left:10px;"></div>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass(org.testng.ITestContext)[pri:0, instance:com.myorg.tests.AmazonTest@b3d7190]" name="afterClass" is-config="true" duration-ms="2" started-at="2019-01-31T13:03:11Z" finished-at="2019-01-31T13:03:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@6b4a4e18]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest(org.testng.ITestContext)[pri:0, instance:com.myorg.tests.AmazonTest@b3d7190]" name="afterTest" is-config="true" duration-ms="95" started-at="2019-01-31T13:03:11Z" finished-at="2019-01-31T13:03:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@6b4a4e18]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuit(org.testng.ITestContext)[pri:0, instance:com.myorg.tests.AmazonTest@b3d7190]" name="afterSuit" is-config="true" duration-ms="3" started-at="2019-01-31T13:03:11Z" finished-at="2019-01-31T13:03:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@6b4a4e18]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuit -->
+      </class> <!-- com.myorg.tests.AmazonTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

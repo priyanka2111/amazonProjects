@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.myorg.tests.AmazonTest">
+        <methods>
+          <include name="setupTest"/>
+          <include name="addToCartTest"/>
+          <include name="setupSuit"/>
+          <include name="setup"/>
+          <include name="afterClass"/>
+          <include name="afterSuit"/>
+          <include name="setupMethod"/>
+          <include name="afterMethod"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- com.myorg.tests.AmazonTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

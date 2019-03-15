@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="com.qas.folderclasspath.FOLDER_CLASSPATH_CONTAINER/lib/jar">
+		<attributes>
+			<attribute name="org.eclipse.ajdt.aspectpath" value="org.eclipse.ajdt.aspectpath"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.ajdt.core.ASPECTJRT_CONTAINER"/>
+	<classpathentry kind="con" path="org.apache.ivyde.eclipse.cpcontainer.IVYDE_CONTAINER/?project=qaf-blank-project&amp;ivyXmlPath=ivy.xml&amp;confs=*&amp;ivySettingsPath=ivysettings.xml&amp;loadSettingsOnDemand=true&amp;ivyUserDir=&amp;propertyFiles="/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/priyanka.devaliya/Downloads/selenium-java-3.141.59/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/priyanka.devaliya/Downloads/selenium-java-3.141.59/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/priyanka.devaliya/Downloads/selenium-java-3.141.59/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/priyanka.devaliya/Downloads/selenium-java-3.141.59/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/priyanka.devaliya/Downloads/selenium-java-3.141.59/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/priyanka.devaliya/Downloads/selenium-java-3.141.59/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/priyanka.devaliya/Downloads/selenium-java-3.141.59/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
